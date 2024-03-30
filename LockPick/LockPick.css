@@ -38,7 +38,9 @@
     width: var(--box-size);
     height: var(--box-size);
 }
-
+body {
+  touch-action: manipulation;
+}
 .lock-circle {
     outline: calc(var(--px) * 3) solid rgb(173, 173, 173);
     border-radius: 50%;
