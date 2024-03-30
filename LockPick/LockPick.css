@@ -85,6 +85,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 150px;
     flex-grow: 1;
     padding: 1rem 0.5rem;
     background-color: rgb(49, 37, 76);
@@ -116,6 +117,7 @@
     align-items: center;
     justify-content: center;
     flex-grow: 1;
+    height: 150px;
     padding: 1rem 0.5rem;
     background-color: rgb(23, 95, 88);
     color: rgb(48, 221, 189);
